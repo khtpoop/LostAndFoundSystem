@@ -1,3 +1,19 @@
+
+
+
+<img width="850" height="532" alt="Screenshot 2026-11-26 112607" src="https://github.com/user-attachments/assets/23bd058c-be13-43b7-b0f8-c9d417b251d4" />
+
+
+
+
+
+
+
+
+
+
+
+
 CREATE TABLE Users (
     user_id INT AUTO_INCREMENT PRIMARY KEY,
     first_name VARCHAR(50) NOT NULL,
